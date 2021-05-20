@@ -1,5 +1,5 @@
 
-# Faisal Isamil
+# Faisal Ismail
  
 - 😄 Pronouns me as `/Fey-sal/`
 - 🎓 Pir Mehr Ali Shah Arid Agriculture University Rawalpindi
