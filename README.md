@@ -1,27 +1,72 @@
+# Faisal Ismail 🚀
 
-# Faisal Ismail
- 
-- 😄 Pronouns me as `/Fey-sal/`
-- 🎓 Pir Mehr Ali Shah Arid Agriculture University Rawalpindi
-- 🌱 I’m currently learning **Flutter & Google Cloud**
-- 🔭 I’m currently working on **Flutter & Wordpress**
+### IT Officer | Cloud & AI Engineer |Cybersecurity Researcher | Mobile App Developer | IT Consultant
 
-## Current Project 💻
-### MCQs Hive | Quiz App
-`Flutter` `SQLite` `Material Design` `Firebase`
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=shield-halved&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-%23FF9900.svg?style=for-the-badge&logo=robot&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</div>
 
-[![Google Play Store](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.mcqshivegk) [![Website](https://img.shields.io/badge/Website-211F1F?logo=google-chrome&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.mcqshivegk) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+---
 
-MCQs Hive provides the multiple choice question of world facts, everyday sciences and current affairs for preparation of competitive exams. This MCQs Quiz app is useful for preparation of jobs tests of CSS, PMS, NTS, IAS, GRE, GAT, FPSC, PPSC and other competitive and entry exams.
-## Recent Projects 📁
-- Al-Biyaan | Holy Quran Mobile App [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https://albiyaan.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.albiyaan) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.albiyaan)
-- Murree News | A mobile news app  [![Website](https://img.shields.io/badge/Website-FF3D00?logo=google-chrome&logoColor=ffffff)](https://murreenews.com) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.murreenews) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.sineixlabs.murreenews) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+## 👨‍💻 About Me
 
+I am an **IT Officer** with over **6+ years of experience** in the digital landscape, specializing in **Mobile & Web Development**, **Cybersecurity**, and **Cloud Infrastructure**. 
 
-# Let's Connect 📱
-[![Faisal Ismail](https://img.shields.io/badge/Faisal_Ismail-000000?logo=opsgenie&logoColor=ffffff)](https://sineix.com/faisal) [![Github](https://img.shields.io/badge/Github-Follow-211F1F?logo=GitHub&logoColor=ffffff)](https://github.com/faisal-ismail/) [![Linkedin](https://img.shields.io/badge/Linkedin-Connect-0077B5?logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faisalismail-pk/)
-[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-FF0000?logo=Youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCQzRvSv_tfd_4PVvxM9vDDg) 
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=Facebook&logoColor=ffffff)](https://www.facebook.com/faisalismail.pk/)  [![Twitter](https://img.shields.io/badge/Twitter-Follow-08A0E9?logo=Twitter&logoColor=ffffff)](https://www.twitter.com/faisalismail_pk/)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-DD2A7B?logo=Instagram&logoColor=ffffff)](https://www.instagram.com/faisalismail.pk/) [![Gmail](https://img.shields.io/badge/Gmail-D44638?logo=gmail&logoColor=ffffff)](mailto:faisalismail.pk@gmail.com) [![Messenger](https://img.shields.io/badge/Chat-1877F2?logo=Messenger&logoColor=ffffff)](https://m.me/faisalismail.pk/) [![WhatsApp](https://img.shields.io/badge/Chat-25D366?logo=WhatsApp&logoColor=ffffff)](https://wa.me/923105898009?text=%23Github)
-[![Support Developer](https://img.shields.io/badge/Support-Developer-784fff?logo=buy-me-a-coffee&logoColor=ffffff)](https://wa.me/923105898009?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4)
+My passion lies in building highly scalable digital solutions and integrating cutting-edge Cloud-hosted AI systems like **Google Gemini**, **Amazon Bedrock**, and **Azure AI Foundry**. I thrive at the intersection of robust security protocols and next-generation user experiences.
 
-[![Fiver](https://img.shields.io/badge/Fiverr-004c00?logo=Fiverr&logoColor=ffffff)](https://www.fiverr.com/faisalismail1)
+---
+
+## 🛠️ Core Expertise
+
+- **Mobile Development**: Expert in building high-performance, cross-platform apps using **Flutter**.
+- **Cybersecurity & PKI**: Specialized in securing enterprise infrastructures and implementing **Public Key Infrastructure**.
+- **AI Integration**: Deeply involved in deploying and fine-tuning **LLM-based AI systems** for real-world applications.
+- **Cloud Services**: Proficient in **Azure**, **Firebase**, and scalable backend architectures.
+- **Data Science**: Utilizing data-driven insights to optimize secure digital solutions.
+
+---
+
+## 💼 Professional Services
+
+- 📱 **Mobile & Web Development**: End-to-end development of responsive and secure applications.
+- 🤖 **AI System Integration**: Integrating Gemini, Bedrock, and Azure AI Foundry into modern platforms.
+- 🛡️ **Cybersecurity Consulting**: Infrastructure auditing, PKI implementation, and data compliance.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Al-Biyaan** | A comprehensive Quran app with 40+ reciters and an ad-free experience. | [View Project](https://albiyaan.net/) |
+| **Nova AI** | Advanced AI platform featuring real-time voice capabilities. | [View Project](https://novaai.sineix.com/) |
+| **CoRides** | A modern, performance-focused ride-sharing web platform. | [View Project](https://corides.web.app/) |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="http://wa.me/+923105898009" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/faisalismail-pk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/faisal-ismail" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:faisalismail.pk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Bridging the gap between robust security and seamless innovation."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-ismail&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
