@@ -1,7 +1,6 @@
-# Faisal Ismail 🚀
+# Faisal Ismail 
 
-<div align="center">
-  <img src="https://sineix.com/faisal/assets/faisal-dp-office.jpg" alt="Faisal Ismail" width="200" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
+
   
   ### IT Officer | Cloud & AI Engineer | Cybersecurity Researcher | Mobile App Developer | IT Consultant
 
