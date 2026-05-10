@@ -68,7 +68,5 @@ My expertise lies in building highly scalable digital solutions and integrating 
 
 <div align="center">
   <p><i>"Bridging the gap between robust security and seamless innovation."</i></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=faisal-ismail&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-ismail&layout=compact&theme=radical" alt="Top Langs" />
+ 
 </div>
